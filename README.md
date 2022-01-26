@@ -1,6 +1,6 @@
 # Landing-Page
 
-[Live preview] (https://lauraa1003.github.io/Landing-Page/) :point_left:
+[Live preview](https://lauraa1003.github.io/Landing-Page/) :point_left:
 
 The odin project
 
